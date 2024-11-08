@@ -3,7 +3,7 @@ import React from 'react'
 const Articles = () => {
   return (
     <div>
-      Will come soon.
+      Will come soon....
     </div>
   )
 }
